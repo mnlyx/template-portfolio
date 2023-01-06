@@ -1,0 +1,54 @@
+#instagram {
+    background-color: blueviolet;
+    height: 25px;
+    border-radius: 10px;
+   
+   
+}
+
+#esp1 {
+    width: 5px;
+}
+
+#discord {
+    background-color: rgb(227, 224, 230);
+    height: 25px;
+    border-radius: 10px;
+}
+
+#esp2 {
+    width: 5px;
+}
+
+#spotify {
+    background-color: rgb(0, 0, 0);
+    height: 25px;
+    width: -25px;
+    border-radius: 10px;
+}
+#spt {
+    background-color: rgb(18, 219, 108);
+    height: 25px;
+    width: 25px;
+    margin-left: 205px;
+    border-radius: 10px;
+}
+
+#esp3 {
+    width: 5px;
+}
+
+#twitter {
+    background-color: rgb(0, 0, 0);
+    height: 25px;
+    width: -25px;
+    border-radius: 10px;
+}
+
+#tt {
+    background-color: rgb(13, 197, 230);
+    height: 25px;
+    width: 25px;
+    margin-left: -30px;
+    border-radius: 10px;
+}
