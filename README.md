@@ -1,4 +1,4 @@
-## DEMONSTRAÇÃO DE PORTIFOLIO
+## DEMONSTRAÇÃO DE PORTFOLIO
 >  Olá me chamo montali, comecei a pouco tempo na área de front-end, se achar o código estranho ou desorganizado me mande uma versão dele na DM!
 
 #### Oque você tera neste repositorio? :trollface:
