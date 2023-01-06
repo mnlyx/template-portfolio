@@ -1,0 +1,93 @@
+:root {
+    scroll-behavior: smooth;
+    font: 1rem/1.5 var(--bs-font-sans-serif);
+}
+
+#txt {
+    font-size: 16px;
+}
+
+#credits {
+    margin-top: 10px;
+    margin-left: -16px;
+    border-radius: 15px;
+    height: 24px;
+    width: 150px;
+    background-color: black;
+    color: aliceblue;
+}
+
+#con-pai {
+    background-color: black;
+    display: flexbox;
+    height: 100vh;
+}
+
+#irmão {
+    
+    background-image: url("fundo.gif");
+    height: 240px;
+}
+
+#irmã {
+    background-color: black;
+    width: 544px;
+}
+
+#pefil {
+    width: 544px;
+    height: max-content;
+    
+}
+
+#photo-name-description {
+    height: 100px;
+    margin-top: 0px;
+}
+
+#photo {
+    height: 125px;
+    width: 125px;
+    background-image: url("perfil.gif");
+    background-size: cover;
+    
+    background-position: center;
+    margin-top: -70px;
+    border-radius: 100px;
+}
+
+#nameUser {
+    color: white;
+    font-size: 23px;
+    
+    font-style: bold;
+}
+
+#linkUser {
+    color: rgb(36, 38, 51);
+    margin-top: -10px;
+    font-size: 16px;
+}
+
+#socialink {
+    height: 50px;
+    margin-top: 10px;
+}
+
+#link2 {
+    background-color: rgb(54, 54, 54);
+    border-radius: 10px;
+    height: 50px;
+    margin-top: 35px;
+
+}
+
+#iconlink2 {
+    background-color: rgb(32, 32, 32);
+    
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-left: -13.39px;
+    height: 50px;
+    width: 55px;
+}
